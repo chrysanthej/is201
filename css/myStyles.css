@@ -9,6 +9,9 @@
 .myImgHome{
     width: 50% !important;
 }
+.myImgHome2{
+    width: 51% !important;
+}
 .myImgAbout{
     width: 35% !important;
 }
@@ -23,6 +26,7 @@
 }
 .indexBox{
     background-color: rgba(245, 245, 245, 0.681);
+    margin-top: 0% !important;
 }
 .videoBoxBig{
     background-color: rgba(240, 247, 247, 0.288) !important;
@@ -33,5 +37,34 @@
 .myAboutBox{
     width: 800px;
     margin-right: 0px !important;
-    padding: 0%;
+    background-color: initial !important;
+    background-color: rgba(245, 245, 245, 0.533) !important;
+}
+.myAboutBoxPlacement1{
+    margin-top: -33rem !important;
+}
+.myAboutBoxPlacement2{
+    margin-top: -44rem !important;
+}
+.myAboutBoxPlacement3{
+    margin-top: -33rem !important;
+}
+.tableauCenter{
+    width: 800px;
+    margin-left: 0px;
+}
+.videoCenter{
+    margin-right: 0%;
+    margin-left: 60%;
+    margin-top: -55rem !important;
+}
+.videoCenter2{
+    margin-right: 0%;
+    margin-left: 60%; 
+}
+.myImgScratch{
+    width: 18%;
+    border: 1px solid black;
+    padding: 3px;
+    margin: 3px;
 }
